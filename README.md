@@ -1,14 +1,29 @@
-Universal Downloader
+# Universal Downloader
 
-https://github.com/sharp4real/universal-downloader/blob/main/Screenshot%25202025-12-29%2520120605.png?raw=true
-⚠️ Project Status
-Note: The source code for this project has been lost. This repository contains only the compiled executable recovered from a backup drive.
+A WPF-based desktop application built with .NET for downloading content from various sources.
 
-📖 Overview
-Universal Downloader is a desktop application that provides a streamlined interface for downloading content from various online sources. The recovered version is a functional standalone executable.
+## Screenshot
 
-🚀 Features
+![Universal Downloader Interface](https://github.com/sharp4real/universal-downloader/blob/main/Screenshot%202025-12-29%20120605.png?raw=true)
 
-Multi-source downloading capability
-Simple and intuitive user interface
-Lightweight and portable
+## About
+
+This application was originally developed in WPF using the .NET framework. While the source code has been lost, the compiled executable has been preserved and is available for use.
+
+## Status
+
+⚠️ **Note**: The original source code for this project is no longer available. Only the compiled executable remains.
+
+## Technology Stack
+
+- **Framework**: WPF (Windows Presentation Foundation)
+- **Platform**: .NET
+
+## Download
+
+The executable can be found in the releases section of this repository.
+
+
+## Contributing
+
+As the source code is no longer available, contributions cannot be accepted at this time.
